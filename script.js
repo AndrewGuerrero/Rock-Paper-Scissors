@@ -77,5 +77,5 @@ function logRound(playerChoice, computerChoice, winner, round){
     
 }
 
-
 game();
+

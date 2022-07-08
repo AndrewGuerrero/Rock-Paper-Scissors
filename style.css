@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: white;
+}
+
+button {
+width: 100px;
+height: 100px;
+background-color: black;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+}
+.choices-container{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin: 90px;
+}
